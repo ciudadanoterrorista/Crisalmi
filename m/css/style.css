@@ -1,0 +1,367 @@
+.cabecerahome{
+	background-image: url(../imagenes/cab.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logomenu{
+	padding-top: 40px;
+	margin-bottom: 40px;
+}
+
+.menu{
+	color: #ffffff;
+	font-family: 'Montserrat';
+	text-transform: uppercase;
+	font-size: 11px;
+	margin-left: 12px;
+	display: inline-block;
+	padding-top: 22px;
+	opacity: .8;
+	transition: all 0.5s ease;
+}
+
+.menu:hover{
+	text-decoration: none;
+	color: #ffffff;
+	transition: all 0.5s ease;
+	opacity: 1;
+	font-weight: 600;
+}
+
+.lavar{
+	color: #ffffff;
+	font-family: 'Montserrat';
+	text-transform: uppercase;
+	font-size: 14px;
+	background-color: #43fe85;
+	border-radius: 8px;
+	padding: 11px 30px;
+	font-weight: 600;
+	transition: all 0.5s ease;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.lavar:hover{
+	opacity: 1;
+	transition: all 0.5s ease;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.lavar img{
+	width: 30px;
+	margin-right: 5px;
+}
+.formcab{
+	text-align:center;
+}
+
+.formcab h1{
+	color: #fff;
+	font-family: 'Montserrat';
+	font-size: 23px;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.formcab h2{
+	color: #fff;
+	font-family: 'Montserrat';
+	font-size: 15px;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 2px;
+	margin-bottom: 50px;
+}
+
+.formcab h3{
+	color: #ececec;
+	font-family: 'Montserrat';
+	font-size: 16px;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.retiro {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 24px;
+}
+
+.retiro img{
+	width: 60px;
+	margin-right: 13px;
+}
+
+.retiro span{
+	color: #ececec;
+	font-family: 'Montserrat';
+	font-size: 15px;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.inp input{
+	width: 100%;
+    font-family: 'Montserrat';
+	background-color: #f3f3f3;
+	box-shadow: none;
+	font-size: 13px;
+    font-weight: 300;
+	outline: none;
+	padding: 15px 10px;
+	border-radius: 5px;
+	color: #000;
+	border: none;
+}
+
+textarea {
+    background-color: #f3f3f3;
+    height: 150px;
+    width: 100%;
+    outline: none;
+	padding: 15px 10px;
+	border-radius: 5px;
+	border: none;
+    resize: none;
+	box-shadow: none;
+	font-size: 13px;
+	font-family: 'Montserrat';
+    font-weight: 300;
+    margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.inpu{
+	text-align: center;
+}
+
+.inpu input{
+    font-family: 'Montserrat';
+    background-color: #7cf4a7;
+    box-shadow: none;
+    font-size: 16px;
+    font-weight: 300;
+    outline: none;
+    padding: 10px 90px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: #aeaeae;
+    margin-top: 0px;
+    transition: all 0.5s ease;
+    width: 100%;
+}
+
+.inpu input:hover{
+	background-color: #43fe85 !important;
+	color: #ffffff;
+}
+
+.mein{
+	text-align: right;
+	padding-left: 0px;
+	padding-right: 10px;
+}
+
+.servicios h1{
+	color: #7cf4a7;
+	font-family: 'Montserrat';
+	font-size: 18px;
+	font-weight: 500;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.servicios hr {
+    width: 70px;
+    border: none;
+    height: 2px;
+    background-color: #949494;
+    margin-top: 40px;
+}
+
+.servicios{
+	color: #949494;
+	font-family: 'Montserrat';
+	font-size: 14px;
+}
+.serviciosuno ul{
+	float: right;
+}
+
+.serviciosdos ul{padding-left: 60px;}
+
+.serviciosdos ul li, .serviciosuno ul li{
+	margin-bottom: 6px;
+}
+
+.lavanderia{margin-top: 50px;}
+
+
+.lavanderia img{
+	width: 100%;
+	padding: 0px;
+}
+
+.lavanderia-der{
+	width: 390px;
+	display: inline-block;
+	float: right;
+}
+
+
+.texto-lavanderia{
+	float: right;
+	display: block;
+	color: #949494;
+	font-family: 'Montserrat';
+	font-size: 14px;
+	text-align: left;
+	padding: 10px 20px 0px 20px;
+}
+
+.texto-lavanderia h1{
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: -5px;
+	margin-bottom: 10px;
+	color: #7cf4a7;
+}
+
+.texto-lavanderia hr{
+	width: 45px;
+	border: none;
+	height: 2px;
+	background-color: #949494;
+	display: inline-block;
+	text-align: left;
+}
+
+.texto-lavanderia p{
+	margin-bottom: 35px;
+}
+
+.barrios{
+	background-color: #3a567c;
+	color: #ffffff;
+	font-family: 'Montserrat';
+	font-size: 10px;
+	font-weight: 100;
+	padding-bottom: 40px;
+}
+
+.barrios h1{
+	color: #ffffff;
+	font-family: 'Montserrat';
+	font-size: 14px;
+	font-weight: 500;
+	text-align: center;
+	margin-top: 85px;
+	margin-bottom: 40px;
+	padding: 0px;
+}
+
+.gota{
+	text-align: center;
+	clear: both;
+}
+.gota img{
+	margin-bottom: -50px;
+	width: 100px;
+	margin-top: 45px;
+}
+
+.formula{
+	margin-top: 20px;
+	margin-bottom: 70px;
+}
+
+.formula h1{
+    color: #7cf4a7;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.formula p{
+	color: #949494;
+	font-family: 'Montserrat';
+	font-size: 12px;
+	font-weight: 200;
+	text-align: center;
+	margin-top: -3px;
+	margin-bottom: 24px;
+}
+
+.formula hr{
+	width: 70px;
+	border: none;
+	height: 2px;
+	background-color: #949494;
+}
+
+.footer{
+	color: #949494;
+	font-family: 'Montserrat';
+	font-size: 11px;
+	font-weight: 200;
+	margin-top: 55px;
+	padding-bottom: 18px;
+	text-align: center;
+}
+
+.sin{
+	padding: 0px;
+}
+
+@media screen and (max-width: 390px) {
+	.menu {
+    font-size: 9px;
+    margin-left: 8px;
+	}
+	.retiro img {
+		width: 40px;
+	}
+	.serviciosdos ul {
+    padding-left: 30px;
+	}
+	.lavar {
+    margin-top: -5px;
+	}
+	.formcab h2 {
+		margin-top: 10px;
+	}
+	.logomenu {
+		padding-top: 25px;
+		margin-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 340px) {
+	.menu {
+    margin-left: 5px;
+	}
+	.retiro img {
+		width: 40px;
+	}
+	.logomenu img{
+	width:120px;
+	}
+	.formcab h2 {
+    font-size: 14px;
+	}
+	.footer {
+    font-size: 9px;
+	}
+}
